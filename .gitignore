@@ -1,0 +1,9 @@
+#rider file
+.idea/
+
+#build files
+bin/
+obj/
+
+#whatever this is
+ObsidianDocs/.obsidian
